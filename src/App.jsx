@@ -72,7 +72,7 @@ function App() {
     <div
       className="App"
       style={{
-        padding: "20px",
+        padding: "25px",
         margin: "500px 150px",
       }}
     >
