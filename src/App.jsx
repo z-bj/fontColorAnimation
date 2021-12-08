@@ -72,8 +72,6 @@ function App() {
     <div
       className="App"
       style={{
-        backgroundColor: "gold",
-        border: "10px solid red",
         padding: "20px",
         margin: "500px 150px",
       }}
